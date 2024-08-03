@@ -32,7 +32,7 @@ pip install pandas matplotlib seaborn openpyxl
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/automated-email-campaign-analysis.git
+   git clone https://github.com/rohitprofc/automated-email-campaign-analysis.git
    cd automated-email-campaign-analysis
    ```
 
